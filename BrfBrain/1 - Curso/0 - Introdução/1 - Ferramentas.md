@@ -1,0 +1,4 @@
+- OBSIDIAN
+- GIT
+- Conta no GitHub
+- Visual Studio / Visual Code
